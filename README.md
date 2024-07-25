@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWx2anA4Ymk4cTZsbDJoemdiczRseTZxajNuejh4dW1waTg2Z3h1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lmeDPtQLlcTaaKVwsC/giphy.gif">
 
 <!--
 **maks89855/maks89855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
