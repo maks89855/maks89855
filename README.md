@@ -19,5 +19,4 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)]()
 
 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/maks89855)
+![](https://komarev.com/ghpvc/?username=maks89855&style=for-the-badge)
