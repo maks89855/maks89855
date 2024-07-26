@@ -33,11 +33,11 @@
         <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
     </a>
 </p>
-<footer>
-    <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=maks89855&style=for-the-badge"/>
-    </p>
-</footer>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=maks89855&style=for-the-badge"/>
+</p>
+
 
 
 
