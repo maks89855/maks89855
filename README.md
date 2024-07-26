@@ -1,12 +1,6 @@
-<style>
-    .logo{
-        border-radius: 30%;
-        width: 100px;
-    }
-</style>
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi!;I%60m+.NET+Backend+developer"/>
-    <img class="logo" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpwdWxrdWN2cGZ4dGl0OWVmaWp2NTFvbDJ3ajFuaTkxYWIzbXM3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qyvKbpaYIvBsAW7xKG/giphy.gif">
+     <img class="logo" width="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpwdWxrdWN2cGZ4dGl0OWVmaWp2NTFvbDJ3ajFuaTkxYWIzbXM3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qyvKbpaYIvBsAW7xKG/giphy.gif"/>
 </p>
 
 ## <div align="center">LANGUAGE & TOOLS </div>
@@ -37,8 +31,6 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=maks89855&style=for-the-badge"/>
 </p>
-
-
 
 
 
