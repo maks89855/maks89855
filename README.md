@@ -1,8 +1,9 @@
 <p align="center">
-    <img width="300" class="logo"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxidWF2c2lwdjc1bjBkZHJjenBtNzhtaG1sOHo2d2ozb3ZlejZuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RT6kktUwOeFOYoZKcy/giphy.gif"/>
-</p>
+    
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi!;I%60m+.NET+Backend+developer"/>
+    <img width="150" class="logo"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxidWF2c2lwdjc1bjBkZHJjenBtNzhtaG1sOHo2d2ozb3ZlejZuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RT6kktUwOeFOYoZKcy/giphy.gif"/>
+</p>
 </p>
 
 ## <div align="center">LANGUAGE & TOOLS </div>
