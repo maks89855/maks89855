@@ -17,9 +17,6 @@
 
 ## <div align="center">SOCIAL</div>
 <p align="center">
-    <a href="https://t.me/maks89855">
-        <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"/>
-    </a>
     <a href="https://www.codewars.com/users/maks89855">
         <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
     </a>
